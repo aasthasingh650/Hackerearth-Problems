@@ -4,8 +4,8 @@
 ### Problems Included:
 - Rain Sound
 - Array Insert
-- [Car Names](Hackerearth/car-names.cpp)
-- [Psychic Problems](Hackerearth/psychic-problems.cpp)
+- Car Names
+- Psychic Problems
 - Print Hackerearth
 - Addition Aint Simple
 ```
